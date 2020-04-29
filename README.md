@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/banevare/cse110_travis_ci.svg?branch=master)](https://travis-ci.org/banevare/cse110_travis_ci)
