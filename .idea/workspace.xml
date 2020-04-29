@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="368948aa-29a4-41e5-887a-f370494d5439" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/junit-4.11.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +19,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bDt8WBqn6xjxmk4vKoQNyOjnqp" />
@@ -120,12 +120,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588178333591</updated>
-      <workItem from="1588178336423" duration="6719000" />
+      <workItem from="1588178336423" duration="8037000" />
     </task>
+    <task id="LOCAL-00001" summary="trying travis">
+      <created>1588189136190</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588189136190</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="trying travis" />
+    <option name="LAST_COMMIT_MESSAGE" value="trying travis" />
   </component>
   <component name="WindowStateProjectService">
     <state x="616" y="94" key="#Project_Structure" timestamp="1588178356559">
@@ -136,6 +148,10 @@
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="878" y="139" key="#com.intellij.ide.util.MemberChooser/0.23.1440.808@0.23.1440.808" timestamp="1588178946042" />
+    <state x="609" y="32" key="CommitChangelistDialog2" timestamp="1588189135889">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="609" y="32" key="CommitChangelistDialog2/0.23.1440.808@0.23.1440.808" timestamp="1588189135889" />
     <state width="804" height="207" key="GridCell.Tab.0.bottom" timestamp="1588182642057">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
@@ -152,6 +168,10 @@
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state width="804" height="207" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1588182642057" />
+    <state x="617" y="168" key="Vcs.Push.Dialog.v2" timestamp="1588188798897">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="617" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.808@0.23.1440.808" timestamp="1588188798897" />
     <state x="570" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1588178337861">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
