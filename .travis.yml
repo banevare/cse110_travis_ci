@@ -2,4 +2,4 @@ language: java
 before_install:
   - sudo apt-get install -y ant
   - sudo apt-get install -y ant-optional
-jdk: oraclejdk11
+dist: trusty
